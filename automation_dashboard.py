@@ -284,10 +284,6 @@ def main():
     - The probabilities are **not observed outcomes**, but **theoretical estimates** derived from statistical modeling.  
     - We used a **mixture model of occupational abilities** (based on O*NET data and McKinsey Global Institute's capability timelines) to construct probability distributions of automation for each occupation.  
     - Each occupation's probability curve is modeled as a **Cumulative Distribution Function (CDF)**, representing the gradual likelihood of automation between **2017 and 2086**.  
-    ### ⚠️ Important Notes
-    - These results are **projections**, not certainties.  
-    - They should be interpreted as **scenarios** that illustrate how automation could unfold over time.  
-    - Actual adoption will depend on many factors: **policy choices, diffusion speed, infrastructure, firm-level strategies, and societal acceptance**.
     ### 💡 How to Use
     - Search occupations by **name** or **SOC code**.  
     - Visualize the **automation CDF curve** interactively.  
